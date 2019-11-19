@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SwipeProject</string>
+    <string name="menssagem">Você acertou %d de %d perguntas. Quer jogar novamente?</string>
+</resources>
